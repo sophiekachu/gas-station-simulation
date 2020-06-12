@@ -1,0 +1,3 @@
+﻿  Station.cpp
+d:\documents\ubc\cpen333\assignments\assignment 1\station\station\station.cpp(44): warning C4553: '==': result of expression not used; did you intend '='?
+  Station.vcxproj -> D:\Documents\UBC\CPEN333\Assignments\Assignment 1\Station\Debug\Station.exe
